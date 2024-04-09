@@ -1,0 +1,4 @@
+type safety 
+- typescript provides static checking is where the ide constantly checks the correctness of the code 
+
+types are lowercase
